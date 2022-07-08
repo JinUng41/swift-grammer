@@ -13,3 +13,15 @@
 [함수 기본](https://github.com/JinUng41/swift-grammer/issues/6)
 
 [함수 고급](https://github.com/JinUng41/swift-grammer/issues/7)
+
+[조건문 switch, if-else](https://github.com/JinUng41/swift-grammer/issues/8)
+
+[반복문 for-in, while, repeat-while](https://github.com/JinUng41/swift-grammer/issues/9)
+
+[옵셔널 optional](https://github.com/JinUng41/swift-grammer/issues/10)
+
+[옵셔널 추출 optional unwrapping](https://github.com/JinUng41/swift-grammer/issues/11)
+
+
+
+[구조체]
