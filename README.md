@@ -24,4 +24,4 @@
 
 
 
-[구조체]
+[구조체](https://github.com/JinUng41/swift-grammer/issues/12)
