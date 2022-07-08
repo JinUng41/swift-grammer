@@ -9,3 +9,5 @@
 [Any, AnyObject, nil](https://github.com/JinUng41/swift-grammer/issues/4)
 
 [컬렉션 타입 Array, Dictionary, Set](https://github.com/JinUng41/swift-grammer/issues/5)
+
+[함수 기본](https://github.com/JinUng41/swift-grammer/issues/6)
