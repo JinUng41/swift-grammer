@@ -11,3 +11,5 @@
 [컬렉션 타입 Array, Dictionary, Set](https://github.com/JinUng41/swift-grammer/issues/5)
 
 [함수 기본](https://github.com/JinUng41/swift-grammer/issues/6)
+
+[함수 고급](https://github.com/JinUng41/swift-grammer/issues/7)
