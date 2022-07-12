@@ -27,3 +27,5 @@
 [구조체](https://github.com/JinUng41/swift-grammer/issues/12)
 
 [클래스](https://github.com/JinUng41/swift-grammer/issues/13)
+
+[열거형](https://github.com/JinUng41/swift-grammer/issues/14)
