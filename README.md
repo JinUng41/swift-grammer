@@ -37,3 +37,5 @@
 [클래스 vs 구조체, 열거형](https://github.com/JinUng41/swift-grammer/issues/15)
 
 [클로저 기본](https://github.com/JinUng41/swift-grammer/issues/16)
+
+[클로저 고급](https://github.com/JinUng41/swift-grammer/issues/17)
