@@ -1,6 +1,7 @@
 # swift-grammer
 
 <h3>part 1</h3>
+
 [명명법 / 콘솔로그 / 문자열 보간법](https://github.com/JinUng41/swift-grammer/issues/1)
 
 [상수와 변수](https://github.com/JinUng41/swift-grammer/issues/2)
@@ -24,8 +25,8 @@
 [옵셔널 추출 optional unwrapping](https://github.com/JinUng41/swift-grammer/issues/11)
 
 <hr>
-
-<part 2>
+<br>
+<h3>part 2</h3>
 [구조체](https://github.com/JinUng41/swift-grammer/issues/12)
 
 [클래스](https://github.com/JinUng41/swift-grammer/issues/13)
