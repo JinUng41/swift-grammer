@@ -22,7 +22,7 @@
 
 [옵셔널 추출 optional unwrapping](https://github.com/JinUng41/swift-grammer/issues/11)
 
-<br><br>
+<hr><br>
 
 [구조체](https://github.com/JinUng41/swift-grammer/issues/12)
 
