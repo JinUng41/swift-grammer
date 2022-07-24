@@ -40,4 +40,4 @@
 
 [클로저 고급](https://github.com/JinUng41/swift-grammer/issues/17)
 
-<a href=-"https://github.com/JinUng41/swift-grammer/issues/18">프로퍼티</a>
+<a href="https://github.com/JinUng41/swift-grammer/issues/18">프로퍼티</a>
