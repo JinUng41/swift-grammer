@@ -41,3 +41,9 @@
 [클로저 고급](https://github.com/JinUng41/swift-grammer/issues/17)
 
 <a href="https://github.com/JinUng41/swift-grammer/issues/18">프로퍼티</a>
+
+<a href="https://github.com/JinUng41/swift-grammer/issues/19">프로퍼티 감시자</a>
+
+<a href="https://github.com/JinUng41/swift-grammer/issues/20">상속</a>
+
+<a href="https://github.com/JinUng41/swift-grammer/issues/21">인스턴스 생성 / 소멸 (init/ deinit)</a>
