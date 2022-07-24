@@ -47,3 +47,7 @@
 <a href="https://github.com/JinUng41/swift-grammer/issues/20">상속</a>
 
 <a href="https://github.com/JinUng41/swift-grammer/issues/21">인스턴스 생성 / 소멸 (init/ deinit)</a>
+
+<a href="https://github.com/JinUng41/swift-grammer/issues/22">옵셔널 체이닝과 nil 병합 연산자</a>
+
+<a href="https://github.com/JinUng41/swift-grammer/issues/23">타입 캐스팅</a>
