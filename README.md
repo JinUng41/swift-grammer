@@ -51,3 +51,7 @@
 <a href="https://github.com/JinUng41/swift-grammer/issues/22">옵셔널 체이닝과 nil 병합 연산자</a>
 
 <a href="https://github.com/JinUng41/swift-grammer/issues/23">타입 캐스팅</a>
+
+<a href="https://github.com/JinUng41/swift-grammer/issues/24">assert / guard</a>
+
+<a href="https://github.com/JinUng41/swift-grammer/issues/25">프로토콜 protocol</a>
